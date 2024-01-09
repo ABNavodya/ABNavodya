@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=1a83c9&background=EB00FF00&center=true&vCenter=true&width=250&lines=Web+Developer;UI%2FUX++Designer;)](https://git.io/typing-svg)
 </div>
-<img src="https://github.com/ABNavodya/ABNavodya/blob/main/resources/banner.png" alt="Hello world">
+
 
 <p align="center"> 
   Visitor count<br>
