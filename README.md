@@ -1,9 +1,9 @@
 # Hey, I'm Navodya Asalage 👋 
 
-<div align="center">
+/*<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=1a83c9&background=EB00FF00&center=true&vCenter=true&width=250&lines=QA+Engineer;Web+Developer;UI%2FUX++Designer;)](https://git.io/typing-svg)
-</div>
+</div> */
 
 
 <p align="center"> 
