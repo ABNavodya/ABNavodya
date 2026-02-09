@@ -1,15 +1,12 @@
 # Hey, I'm Navodya Asalage 👋 
 
-/*<div align="center">
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=1a83c9&background=EB00FF00&center=true&vCenter=true&width=250&lines=QA+Engineer;Web+Developer;UI%2FUX++Designer;)](https://git.io/typing-svg)
-</div> */
+</div> 
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ABNavodya/count.svg" />
-</p>
+
 
 # 💫 About Me:
 📚 Dedicated undergraduate student in Computer Science at the University of Plymouth.<br>👨🏻‍💻 Proficient UI UX Designer.<br>🧑‍🎨 Seeking internship opportunities to apply my UI UX designing skills.<br>🎓Hard-working individual committed to continuous learning and growth.<br>💻 Building interactive UI UX design is my expertise.<br>🌐 Experienced in front-end development and user interface design.<br>📊 Data-driven web solutions using Python and JavaScript are my forte.<br>📖 Learning and coding enthusiast with a passion for technology.<br>🌟 Eager to collaborate on innovative web projects.<br>👤 A good listener who values effective communication within a team.<br>🤝 Strong team player, collaborating seamlessly to achieve project goals.
