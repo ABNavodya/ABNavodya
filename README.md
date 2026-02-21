@@ -35,9 +35,10 @@
 
 ## 📈 GitHub Stats
 
-![Navodya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABNavodya&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABNavodya&show_icons=true&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABNavodya&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABNavodya&layout=compact&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ABNavodya&theme=flat&no-frame=false&no-bg=false&margin-w=4)
