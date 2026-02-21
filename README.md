@@ -34,10 +34,10 @@
 ✔ Basic knowledge of automation testing concepts
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABNavodya&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABNavodya&layout=compact&theme=radical)
+![Navodya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABNavodya&show_icons=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABNavodya&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ABNavodya&theme=flat&no-frame=false&no-bg=false&margin-w=4)
