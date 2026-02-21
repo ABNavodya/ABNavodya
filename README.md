@@ -35,10 +35,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABNavodya&show_icons=true&count_private=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ABNavodya&show_icons=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABNavodya&layout=compact&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABNavodya&layout=compact" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ABNavodya&theme=flat&no-frame=false&no-bg=false&margin-w=4)
