@@ -9,8 +9,16 @@
 
 
 # 💫 About Me:
-📚 Dedicated undergraduate student in Computer Science at the University of Plymouth.<br>👨🏻‍💻 Proficient UI UX Designer.<br>🧑‍🎨 Seeking internship opportunities to apply my UI UX designing skills.<br>🎓Hard-working individual committed to continuous learning and growth.<br>💻 Building interactive UI UX design is my expertise.<br>🌐 Experienced in front-end development and user interface design.<br>📊 Data-driven web solutions using Python and JavaScript are my forte.<br>📖 Learning and coding enthusiast with a passion for technology.<br>🌟 Eager to collaborate on innovative web projects.<br>👤 A good listener who values effective communication within a team.<br>🤝 Strong team player, collaborating seamlessly to achieve project goals.
-
+🎓 Computer Science graduate from the University of Plymouth.<br>
+🧪 QA Engineer since 2024 with hands-on experience in manual testing, test case design, defect tracking, and quality assurance processes.<br>
+📜 ISTQB CTFL Certified with a strong understanding of software testing principles and best practices.<br>
+👨🏻‍💻 Proficient in Web Development with experience in building responsive and user-friendly applications.<br>
+🎨 Skilled UI/UX Designer focused on creating intuitive and engaging digital experiences.<br>
+🌐 Experienced in front-end development and modern web technologies.<br>
+📊 Passionate about delivering data-driven solutions using Python and JavaScript.<br>
+📖 Continuous learner committed to professional growth and staying updated with emerging technologies.<br>
+🤝 Strong team player with effective communication skills and attention to detail.<br>
+🌟 Dedicated to enhancing both product quality and user experience.
 <div align="center">
 
 
