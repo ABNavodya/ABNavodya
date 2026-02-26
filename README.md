@@ -33,11 +33,6 @@
 ✔ Ensuring high-quality user experience  
 ✔ Basic knowledge of automation testing concepts
 
-## 📈 GitHub Stats
-
-![Navodya's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ABNavodya&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ABNavodya&layout=compact)
 
 
 ## 🏆 GitHub Trophies
