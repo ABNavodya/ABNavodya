@@ -35,9 +35,6 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABNavodya&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🎯 Career Goal
 To build high-quality, user-friendly web applications by combining strong QA practices with modern Web Development and UI/UX Design principles.
 
